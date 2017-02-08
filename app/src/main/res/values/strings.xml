@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drone</string>
+    <string name="loading">Loading...</string>
+    <string name="drone_not_connected">Drone not connected!</string>
+</resources>
